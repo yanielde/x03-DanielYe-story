@@ -10,7 +10,13 @@ years after graduation, which was the highest salary among all the 2023ers
 of his college. Besides money, he was also successful academically. He created 
 the most powerful AI in the world. 
 
+<<<<<<< HEAD
 Despite his academic talents, Daniel was a very lonely boy. He tried very 
 hard to find love, using services like tinder and hinge, but alas, he couldn't
 match with anyone. After a couple years being lonely, Daniel finally met a 
 girl named Lily.
+=======
+Daniel's girlfriend, Lily was very sweet. She had good manners and always said thank you. 
+Daniel would frequently buy her lavish gifts with his vast amounts of money. For Daniel,
+life was good. He had a good job and he was not lonely. 
+>>>>>>> e6a4c03daf03759c950e04051cd07b6549dd3c81
